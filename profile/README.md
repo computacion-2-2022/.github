@@ -7,7 +7,14 @@ Esta organización permite configurar los permisos del profesorado
 y alumnado para así gestionar las diferentes prácticas a implementar
 en C++.
 
-Junto a ello, se irán haciendo públicos los diferentes repositorios
-con ejemplos y documentación según se vayan viendo en clase.
+Para cualquier duda no dudéis en poneros en contacto con <pablo.collado@uam.es> :smile_cat:
 
-Para cualquier duda no dudéis en poneros en contacto con @pcolladosoto :cat_smile:
+## Ejemplos y materiales
+Junto a ello, se irán haciendo públicos los diferentes repositorios
+con ejemplos y documentación según se vayan viendo en clase. Mientras
+los repositorios sean privados, los enlaces de esta lista no funcionarán: es
+totalmente normal. Si una vez se comente en clase que están disponibles
+estos enlaces siguen sin funcionar no dudéis en poneros en contacto
+con nosotros.
+
+1. Ejemplos iniciales de C++: [`computacion-2-2022/ejemplos`](https://github.com/computacion-2-2022/ejemplos)
