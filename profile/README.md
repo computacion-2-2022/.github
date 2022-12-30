@@ -29,19 +29,19 @@ en el sistema.
 Hemos creado un repositorio de plantilla para cada una de las prácticas. Podéis usar la siguiente enumeración como
 índice para acceder a ellos fácilmente:
 
-1.  **Prácticas 1-5**: [`computacion-2-2022/cpp-exercises`](https://github.com/computacion-2-2022/cpp-exercises).
-2.  **Prácticas 6**:   [`computacion-2-2022/root-finding`](https://github.com/computacion-2-2022/root-finding).
-3.  **Prácticas 7**:   [`computacion-2-2022/linear-equations-lu`](https://github.com/computacion-2-2022/linear-equations-lu).
-4.  **Prácticas 8**:   [`computacion-2-2022/linear-equations-iterative`](https://github.com/computacion-2-2022/linear-equations-iterative).
-5.  **Prácticas 9**:   [`computacion-2-2022/linear-equations-tridiagonal`](https://github.com/computacion-2-2022/linear-equations-tridiagonal).
-6.  **Prácticas 10**:  [`computacion-2-2022/nonlinear-equations`](https://github.com/computacion-2-2022/nonlinear-equations).
-7.  **Prácticas 11**:  [`computacion-2-2022/diagonalization-i`](https://github.com/computacion-2-2022/diagonalization-i).
-8.  **Prácticas 12**:  [`computacion-2-2022/diagonalization-ii`](https://github.com/computacion-2-2022/diagonalization-ii).
-9.  **Prácticas 13**:  [`computacion-2-2022/integration-i`](https://github.com/computacion-2-2022/integration-i).
-10. **Prácticas 14**:  [`computacion-2-2022/integration-ii`](https://github.com/computacion-2-2022/integration-ii).
-11. **Prácticas 15**:  [`computacion-2-2022/differential-equations-i`](https://github.com/computacion-2-2022/differential-equations-i).
-12. **Prácticas 16**:  [`computacion-2-2022/differential-equations-ii`](https://github.com/computacion-2-2022/differential-equations-ii).
-13. **Prácticas 17**:  [`computacion-2-2022/differentiation-i`](https://github.com/computacion-2-2022/differentiation-i).
-14. **Prácticas 18**:  [`computacion-2-2022/differentiation-ii`](https://github.com/computacion-2-2022/differentiation-ii).
-15. **Prácticas 19**:  [`computacion-2-2022/differential-equations-iii`](https://github.com/computacion-2-2022/differential-equations-iii).
-16. **Prácticas 20**:  [`computacion-2-2022/differential-equations-iv`](https://github.com/computacion-2-2022/differential-equations-iv).
+- **Prácticas 1-5**: [`computacion-2-2022/cpp-exercises`](https://github.com/computacion-2-2022/cpp-exercises).
+- **Práctica 6**:    [`computacion-2-2022/root-finding`](https://github.com/computacion-2-2022/root-finding).
+- **Práctica 7**:    [`computacion-2-2022/linear-equations-lu`](https://github.com/computacion-2-2022/linear-equations-lu).
+- **Práctica 8**:    [`computacion-2-2022/linear-equations-iterative`](https://github.com/computacion-2-2022/linear-equations-iterative).
+- **Práctica 9**:    [`computacion-2-2022/linear-equations-tridiagonal`](https://github.com/computacion-2-2022/linear-equations-tridiagonal).
+- **Práctica 10**:   [`computacion-2-2022/nonlinear-equations`](https://github.com/computacion-2-2022/nonlinear-equations).
+- **Práctica 11**:   [`computacion-2-2022/diagonalization-i`](https://github.com/computacion-2-2022/diagonalization-i).
+- **Práctica 12**:   [`computacion-2-2022/diagonalization-ii`](https://github.com/computacion-2-2022/diagonalization-ii).
+- **Práctica 13**:   [`computacion-2-2022/integration-i`](https://github.com/computacion-2-2022/integration-i).
+- **Práctica 14**:   [`computacion-2-2022/integration-ii`](https://github.com/computacion-2-2022/integration-ii).
+- **Práctica 15**:   [`computacion-2-2022/differential-equations-i`](https://github.com/computacion-2-2022/differential-equations-i).
+- **Práctica 16**:   [`computacion-2-2022/differential-equations-ii`](https://github.com/computacion-2-2022/differential-equations-ii).
+- **Práctica 17**:   [`computacion-2-2022/differentiation-i`](https://github.com/computacion-2-2022/differentiation-i).
+- **Práctica 18**:   [`computacion-2-2022/differentiation-ii`](https://github.com/computacion-2-2022/differentiation-ii).
+- **Práctica 19**:   [`computacion-2-2022/differential-equations-iii`](https://github.com/computacion-2-2022/differential-equations-iii).
+- **Práctica 20**:   [`computacion-2-2022/differential-equations-iv`](https://github.com/computacion-2-2022/differential-equations-iv).
