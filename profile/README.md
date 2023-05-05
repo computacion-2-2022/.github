@@ -23,7 +23,7 @@ En este repositorio se encuentra la implementación de las clases `mivector` y `
 bastante durante la asignatura. También se incluyen instrucciones para la instalación de estas cabeceras
 en el sistema.
 
-1. Implementación de clases: [`computacion-2-2022/include`](https://github.com/computacion-2-2022/include).
+1. Implementación de  clases: [`computacion-2-2022/include`](https://github.com/computacion-2-2022/include).
 
 ## Enunciados de las prácticas
 Hemos creado un repositorio de plantilla para cada una de las prácticas. Podéis usar la siguiente enumeración como
